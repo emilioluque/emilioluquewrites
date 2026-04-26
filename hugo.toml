@@ -1,0 +1,27 @@
+baseURL = "https://emilioluquewrites.blog/"
+languageCode = "es-es"
+defaultContentLanguage = "es"
+title = "Emilio Luque Writes"
+
+[module]
+  [[module.imports]]
+    path = "github.com/sergeyklay/gohugo-theme-ed"
+	
+enableRobotsTXT = true
+enableEmoji = true
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  description = "Emilio Luque writes"
+
+[params.author]
+  name = "Emilio Luque"
+  email = "emilio.luque@gmail.com"
+
+[[menu.main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/posts/"
+  weight = 10
