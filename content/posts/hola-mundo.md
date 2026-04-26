@@ -6,3 +6,5 @@ title = 'Hola Mundo'
 +++
 
 ¿Tú te crees que esto va a funcionar?
+
+{{< mini-toc >}}
