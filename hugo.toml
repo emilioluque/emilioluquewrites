@@ -1,7 +1,7 @@
 baseURL = "https://emilioluquewrites.blog/"
 languageCode = "es-es"
 defaultContentLanguage = "es"
-title = "Emilio Luque Writes"
+title = "Or tries to"
 
 [module]
   [[module.imports]]
