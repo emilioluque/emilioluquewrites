@@ -14,7 +14,7 @@ enableEmoji = true
   pagerSize = 10
 
 [params]
-  description = "Emilio Luque writes"
+  description = ""
 
 [params.author]
   name = "Emilio Luque"
