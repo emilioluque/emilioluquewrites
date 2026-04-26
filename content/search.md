@@ -1,6 +1,6 @@
-+++
-title = "Search"
-layout = "search"
-draft = false
-+++
+---
+title: Search
+annotations: false
+---
 
+{{< form-search >}}
