@@ -1,5 +1,5 @@
 +++
-date = '26 de abril de 2026'
+date = '26.04.2026'
 draft = false
 title = 'Hola mundo cruel'
 +++
