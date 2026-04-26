@@ -5,4 +5,3 @@ title = 'Hola mundo cruel'
 +++
 
 ¿Tú te crees que esto va a funcionar?
-
